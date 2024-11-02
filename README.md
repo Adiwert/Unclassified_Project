@@ -1,0 +1,1 @@
+This repository contains various test scripts, small projects, and experimental code snippets that I’ve created to explore different programming concepts and frameworks. It includes code written in different languages, covering a range of topics.
